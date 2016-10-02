@@ -1,34 +1,36 @@
 LockPicker Simulator
 ===================
-Hra LockPicker Simulator je hra pøesnì o tom, co její název vypovídá. Byla vytvoøena pro programátorskou soutì [GeekWork 2016](http://www.itnetwork.cz/nezarazene/programatorska-soutez-geekwork-2016/hra-lock-picker-simulator) jako webová hra, nicménì díky pouití jazyka Java je plnì (a moná i lépe) hratelná jako desktopová aplikace.
+Hra LockPicker Simulator je hra pÅ™esnÄ› o tom, co jejÃ­ nÃ¡zev vypovÃ­dÃ¡. Byla vytvoÅ™ena pro programÃ¡torskou soutÄ›Å¾ [GeekWork 2016](http://www.itnetwork.cz/nezarazene/programatorska-soutez-geekwork-2016/hra-lock-picker-simulator) jako webovÃ¡ hra, nicmÃ©nÄ› dÃ­ky pouÅ¾itÃ­ jazyka Java je plnÄ› (a moÅ¾nÃ¡ i lÃ©pe) hratelnÃ¡ jako desktopovÃ¡ aplikace.
 
 
 ----------
 ## Vlastnosti ##
- 1. Dynamicky generované prostøedí
- 2. Akènost - pøi maximálním FPS (pøedevším v offline reimu) se ze hry stává opravdu napínavı souboj s nepøítelem a jeho taktikou, kde rychlé reflexy mohou zvrátit celkovı vısledek
- 3. Taktika - Hra nabízí monost peèlivì vymyslet svoji taktiku a rozdrtit nepøítele na plné èáøe
- 4. Soutìivost - vyhrávejte/na­kupujte pomocí vyhrané mìny mnoho kosmetickıch vylepšení, které všem ukáí, e vy jste tady šéf
- 5. Vysoké rozlišení - a 4K, nicménì FPS krapet trpí
- 6. Open source - po ukonèení soutìe budou publikovány zdrojové kódy
- 7. Web & Desktop klient - hrajte pohodlnì bez pøipojení k internetu, nebo si uívejte soupeøení s ostatními hráèi
- 8. Nenároènı server (kadı si jej mùe rozjet s minimálními náklady)
- 9. Pøátelskı programátorsko-designérskı tım ve sloení Adam Hlaváèek, Pavel Rùièka, Tomáš Hlaváèek
-## Pøíbìh ##
-###Historické pozadí
-Sir A'Lock Pick zaèínal naprosto od píky. Brzy ale zjistil, e lidé rádi zamykají vìci, a tak zaèal vyrábìt zámky. Jeho zámky mìly takovou kvalitu, e netrvalo dlouho a jeho pùvodnì malı obchùdek se stal nejvìtším svìtovım obchodem se zámky. Bohuel taková vìc také vyvolala nechtìnou pozornost u rùznıch lapkù a zlodìjù, kteøí si chtìli tyto vysoce kvalitní zámky odnést bez placení.
+ 1. Dynamicky generovanÃ© prostÅ™edÃ­
+ 2. AkÄnost - pÅ™i maximÃ¡lnÃ­m FPS (pÅ™edevÅ¡Ã­m v offline reÅ¾imu) se ze hry stÃ¡vÃ¡ opravdu napÃ­navÃ½ souboj s nepÅ™Ã­telem a jeho taktikou, kde rychlÃ© reflexy mohou zvrÃ¡tit celkovÃ½ vÃ½sledek
+ 3. Taktika - Hra nabÃ­zÃ­ moÅ¾nost peÄlivÄ› vymyslet svoji taktiku a rozdrtit nepÅ™Ã­tele na plnÃ© ÄÃ¡Å™e
+ 4. SoutÄ›Å¾ivost - vyhrÃ¡vejte/naÂ­kupujte pomocÃ­ vyhranÃ© mÄ›ny mnoho kosmetickÃ½ch vylepÅ¡enÃ­, kterÃ© vÅ¡em ukÃ¡Å¾Ã­, Å¾e vy jste tady Å¡Ã©f
+ 5. VysokÃ© rozliÅ¡enÃ­ - aÅ¾ 4K, nicmÃ©nÄ› FPS krapet trpÃ­
+ 6. Open source - po ukonÄenÃ­ soutÄ›Å¾e budou publikovÃ¡ny zdrojovÃ© kÃ³dy
+ 7. Web & Desktop klient - hrajte pohodlnÄ› bez pÅ™ipojenÃ­ k internetu, nebo si uÅ¾Ã­vejte soupeÅ™enÃ­ s ostatnÃ­mi hrÃ¡Äi
+ 8. NenÃ¡roÄnÃ½ server (kaÅ¾dÃ½ si jej mÅ¯Å¾e rozjet s minimÃ¡lnÃ­mi nÃ¡klady)
+ 9. PÅ™Ã¡telskÃ½ programÃ¡torsko-designÃ©rskÃ½ tÃ½m ve sloÅ¾enÃ­ Adam HlavÃ¡Äek, Pavel RÅ¯Å¾iÄka, TomÃ¡Å¡ HlavÃ¡Äek
+ 
+## PÅ™Ã­bÄ›h ##
+
+###HistorickÃ© pozadÃ­
+Sir A'Lock Pick zaÄÃ­nal naprosto od pÃ­ky. Brzy ale zjistil, Å¾e lidÃ© rÃ¡di zamykajÃ­ vÄ›ci, a tak zaÄal vyrÃ¡bÄ›t zÃ¡mky. Jeho zÃ¡mky mÄ›ly takovou kvalitu, Å¾e netrvalo dlouho a jeho pÅ¯vodnÄ› malÃ½ obchÅ¯dek se stal nejvÄ›tÅ¡Ã­m svÄ›tovÃ½m obchodem se zÃ¡mky. BohuÅ¾el takovÃ¡ vÄ›c takÃ© vyvolala nechtÄ›nou pozornost u rÅ¯znÃ½ch lapkÅ¯ a zlodÄ›jÅ¯, kteÅ™Ã­ si chtÄ›li tyto vysoce kvalitnÃ­ zÃ¡mky odnÃ©st bez placenÃ­.
 ###Vy
-A proto vstupujete do hry vy - jste nezajímavı detektiv z nezajímavého mìsta v nìjakém nespecifikovaném státì, do kterého pøišly noviny s inzerátem: "*Nejvìtší obchodní dùm se zámky kvùli zvıšení krádeí hledá bezpeènostního zamìstance na plnı úvazek.*" Zaujalo Vás to a proto jste jel na pracovní pohovor, kde jste se dozvìdìl více o vašem úkolu: musíte pozorovat a odhadnout, kterı zámek se kriminální ivly pokusí ukrást a zabránit jim v tom. Není to lehkı úkol, zámkù je mnoho a vy jste jeden. Ale jste ten Jeden!
+A proto vstupujete do hry vy - jste nezajÃ­mavÃ½ detektiv z nezajÃ­mavÃ©ho mÄ›sta v nÄ›jakÃ©m nespecifikovanÃ©m stÃ¡tÄ›, do kterÃ©ho pÅ™iÅ¡ly noviny s inzerÃ¡tem: "*NejvÄ›tÅ¡Ã­ obchodnÃ­ dÅ¯m se zÃ¡mky kvÅ¯li zvÃ½Å¡enÃ­ krÃ¡deÅ¾Ã­ hledÃ¡ bezpeÄnostnÃ­ho zamÄ›stance na plnÃ½ Ãºvazek.*" Zaujalo VÃ¡s to a proto jste jel na pracovnÃ­ pohovor, kde jste se dozvÄ›dÄ›l vÃ­ce o vaÅ¡em Ãºkolu: musÃ­te pozorovat a odhadnout, kterÃ½ zÃ¡mek se kriminÃ¡lnÃ­ Å¾ivly pokusÃ­ ukrÃ¡st a zabrÃ¡nit jim v tom. NenÃ­ to lehkÃ½ Ãºkol, zÃ¡mkÅ¯ je mnoho a vy jste jeden. Ale jste ten Jeden!
 ###Budocnoust
-Budoucností se ji zabıvá [jinı projekt](https://github.com/esoadamo/LPSGM)
+BudoucnostÃ­ se jiÅ¾ zabÃ½vÃ¡ [jinÃ½ projekt](https://github.com/esoadamo/LPSGM)
 ##Instalace
-###Samotná desktopová aplikace
-Z [releases ](https://github.com/esoadamo/LPS/releases) stáhnìte nejnovìjší *_client zip, rozbalte a spusì LPS.jar.
+###SamotnÃ¡ desktopovÃ¡ aplikace
+Z [releases ](https://github.com/esoadamo/LPS/releases) stÃ¡hnÄ›te nejnovÄ›jÅ¡Ã­ *_client zip, rozbalte a spusÅ¥Ä› LPS.jar.
 ###Server
- Z [releases ](https://github.com/esoadamo/LPS/releases) stáhnìte nejnovìjší *_server zip, vytvoøte novou databázi lockpicker a importujte soubor lps.sql. Poté na svùj webovı server nahrajte lps.php (aplikace vyuívá pro komunikaci knihovnu [MySQL2PHP2Java](https://github.com/esoadamo/MySQL2PHP2Java)) a nastavte podle instrukcí v souboru. Tím jste zprovoznili svùj LPS server.
-###Webová aplikace
-Pro spuštìní webové aplikace se pouívá naprosto úasnı [Webswing](http://webswing.org/). Pøedpokládejme, e jste si stáhli nejnovìjší *_client zip a umístili jej do sloky LPS která je podsloukou Webswing serveru.
-Pøíklad konfigurace Webswing:
+ Z [releases ](https://github.com/esoadamo/LPS/releases) stÃ¡hnÄ›te nejnovÄ›jÅ¡Ã­ *_server zip, vytvoÅ™te novou databÃ¡zi lockpicker a importujte soubor lps.sql. PotÃ© na svÅ¯j webovÃ½ server nahrajte lps.php (aplikace vyuÅ¾Ã­vÃ¡ pro komunikaci knihovnu [MySQL2PHP2Java](https://github.com/esoadamo/MySQL2PHP2Java)) a nastavte podle instrukcÃ­ v souboru. TÃ­m jste zprovoznili svÅ¯j LPS server.
+###WebovÃ¡ aplikace
+Pro spuÅ¡tÄ›nÃ­ webovÃ© aplikace se pouÅ¾Ã­vÃ¡ naprosto ÃºÅ¾asnÃ½ [Webswing](http://webswing.org/). PÅ™edpoklÃ¡dejme, Å¾e jste si stÃ¡hli nejnovÄ›jÅ¡Ã­ *_client zip a umÃ­stili jej do sloÅ¾ky LPS kterÃ¡ je podslouÅ¾kou Webswing serveru.
+PÅ™Ã­klad konfigurace Webswing:
 `...
 {
     "name" : "LPS",
